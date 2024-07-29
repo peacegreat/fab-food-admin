@@ -1,10 +1,10 @@
 import React from 'react'
-import "./orders.css"
+import './Orders.css'
 
-const Order = () => {
+const Orders = () => {
   return (
     <div>Order</div>
   )
 }
 
-export default Order
+export default Orders
